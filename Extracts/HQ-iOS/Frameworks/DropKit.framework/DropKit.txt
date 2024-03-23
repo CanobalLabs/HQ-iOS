@@ -1,0 +1,376 @@
+@(#)PROGRAM:DropKit  PROJECT:Hype-1
+SocketCommand
+CommandType
+Content
+CodingKeys
+Axis
+NUILayoutConstraintAxis
+Distribution
+NUIStackViewDistribution
+Alignment
+NUIStackViewAlignment
+ProductOfferSessionViewController
+alignment
+distribution
+axis
+BundleClass
+DropKit
+ProductOfferPurchaseResultViewController
+alignment
+distribution
+axis
+%,0+
+BroadcastStatsCommand
+BroadcastEndedCommand
+BroadcastEndType
+ChatCommand
+ProductOfferPurchaseResultType
+ProductOfferPurchaseResult
+ProductPurchaseStartedMessage
+ProductPurchaseCancelledMessage
+ProductPurchaseCompletedMessage
+Address
+ChatMessage
+Ping
+CodingKeys
+SocketMessage
+Content
+Type
+CodingKeys
+DropService
+DropSession
+yytG
+$sSY
+Sg_ABt
+_AAt
+ySo6UIViewCG
+yySo11UIStackViewCcG
+So11UIStackViewCIegg_
+ySo18NSLayoutConstraintCG
+ySo13CADisplayLinkCG
+ySo6UIViewCG
+yytG
+SgXw
+ySSG
+ySo7UIImageCG
+Ieg_
+So16UIViewControllerC
+So6UIViewCSg
+So7UILabelCSg
+So11UIImageViewCSg
+So23UIActivityIndicatorViewCSg
+ySo6UIViewCGSg
+So18NSLayoutConstraintCSg
+So11UIStackViewC
+So11UIStackViewCIegn_
+yypG
+yyt_
+SgXw
+SSSg
+Sg_ABt
+ySdG
+_AAt
+_ABtG
+SSIegnr_
+_pIegnozo_
+ySS_
+yytGG
+_AAt
+_pSg
+SgXw
+SgXw
+SgXwz_Xx
+SgXwz_Xx
+SgSay
+GIegng_
+SgIegn_
+Iegy_
+SDySS
+ypSg
+SbIegy_
+_pSg
+GSgIegg_
+productOfferCompleted
+episode-broadcast-stats
+productPurchaseStarted
+productPurchaseCancelled
+productPurchaseCompleted
+broadcastEnded
+chat
+productOffer
+sent
+type
+kick
+reason
+subtype
+DropKit.ProductOfferSessionViewController
+init(nibName:bundle:)
+_TtC7DropKit33ProductOfferSessionViewController
+@24@0:8@16
+socketCommand
+socketMessages
+productOfferPurchaseStarted
+productOfferApplePayDidComplete
+$__lazy_storage_$_productOffersRemainingView
+$__lazy_storage_$_productOffersRemainingLabel
+$__lazy_storage_$_productOfferNameLabel
+$__lazy_storage_$_productOfferDescriptionLabel
+$__lazy_storage_$_productOfferExpiresInLabel
+$__lazy_storage_$_productOfferView
+$__lazy_storage_$_productOfferDetailsView
+$__lazy_storage_$_productOfferImageView
+$__lazy_storage_$_activityIndicator
+$__lazy_storage_$_productOfferButtonContainerView
+$__lazy_storage_$_productOfferPurchaseButton
+bottomAnchor
+DropKit/ProductOfferSessionViewController.swift
+Fatal error
+init(coder:) has not been implemented
+_TtC7DropKit11BundleClass
+DropKit.ProductOfferPurchaseResultViewController
+_TtC7DropKit40ProductOfferPurchaseResultViewController
+v16@0:8
+@32@0:8@16@24
+disposeBag
+productOfferPurchaseResult
+$__lazy_storage_$_productOfferResultView
+$__lazy_storage_$_productOfferResultDetailView
+$__lazy_storage_$_productOfferResultTitleLabel
+$__lazy_storage_$_productOfferDetailTitle
+$__lazy_storage_$_productOfferDetailSubtitle
+$__lazy_storage_$_productOfferDismissButton
+$__lazy_storage_$_productOfferDismissXButton
+DropKit/ProductOfferPurchaseResultViewController.swift
+v8@?0
+Continue watching
+Congratulations!
+See email for purchase details
+Come back next time and buy early while supplies last.
+You will not be charged for this transaction.
+See email for purchase details.
+We ran out of stock during the checkout process
+Purchase Completed
+[Drop] session added: 
+, session count: 
+[Drop] deinit Session 
+_TtC7DropKit11DropService
+gameWatchdog
+sessions
+_TtC7DropKit11DropSession
+productOfferCommand
+socketCommands
+shopifyClient
+productOfferPurchaseComplete
+productOfferShopifyDidComplete
+isProductOfferEnded
+isProductPurchaseInProgress
+isShopifyCheckoutCompleted
+productOfferPurchaseEnded
+productOfferSessionEnded
+$__lazy_storage_$_productOfferSessionViewController
+checkoutInput
+currentCheckout
+paySession
+productPurchaseStartedMessage
+lastOrderId
+lastCustomerId
+lastAddress
+paySessionDidFinish - isShopifyCheckoutCompleted=
+updateCheckoutShippingFor checkoutID: 
+updateCheckoutShippingFor userError: 
+/Users/jbogacki/XCodeProjects/hq/DropKit/Services/DropService.swift
+updateCheckoutShippingFor error: 
+Down-casted Array element failed to match the target type
+Expected 
+NSArray element failed to match the Swift Array Element type
+Expected 
+updateCheckoutForEmail checkoutID: 
+updateCheckoutForEmail userError: 
+updateCheckoutForEmail error: 
+completeTransactionFor userError: 
+completeTransactionFor error: 
+completeTransactionFor checkoutCompleted: 
+[Drop] retrying completeTransactionFor: 
+updateCheckoutWithSelectedShippingRateFor checkoutID: 
+updateCheckoutWithSelectedShippingRateFor userError: 
+updateCheckoutWithSelectedShippingRateFor error: 
+fetchShippingRatesFor checkoutID: 
+fetchShippingRatesFor error: 
+[Drop] retrying fetchShippingRatesFor: 
+[Drop] session removed: 
+[Drop] showProductPurchaseResult: 
+[Drop] shopifyPurchaseFlowEnded: 
+[Drop] applePayPurchaseFlowEnded: 
+[Drop] productOfferCompleted: 
+[Drop] productOfferPurchaseStarted: 
+createCheckoutFor checkoutID: 
+createCheckoutFor userError: 
+createCheckoutFor error: 
+merchant.co.intermedialabs.hq
+RawValue
+content
+counter
+timestamp
+broadcastEnded
+broadcastStats
+chat
+productOffer
+productOfferCompleted
+sent
+type
+disposeBag
+socketCommand
+socketCommands
+socketMessages
+productOfferPurchaseStarted
+productOfferApplePayDidComplete
+$__lazy_storage_$_productOffersRemainingView
+$__lazy_storage_$_productOffersRemainingLabel
+$__lazy_storage_$_productOfferNameLabel
+$__lazy_storage_$_productOfferDescriptionLabel
+$__lazy_storage_$_productOfferExpiresInLabel
+$__lazy_storage_$_productOfferView
+$__lazy_storage_$_productOfferDetailsView
+$__lazy_storage_$_productOfferImageView
+$__lazy_storage_$_activityIndicator
+$__lazy_storage_$_productOfferButtonContainerView
+$__lazy_storage_$_productOfferPurchaseButton
+bottomAnchor
+disposeBag
+productOfferPurchaseResult
+$__lazy_storage_$_productOfferResultView
+$__lazy_storage_$_productOfferResultDetailView
+$__lazy_storage_$_productOfferResultTitleLabel
+$__lazy_storage_$_productOfferDetailTitle
+$__lazy_storage_$_productOfferImageView
+$__lazy_storage_$_productOfferDetailSubtitle
+$__lazy_storage_$_productOfferDismissButton
+$__lazy_storage_$_productOfferDismissXButton
+RawValue
+connected
+reason
+type
+kick
+avatarUrl
+message
+userId
+username
+success
+out_of_stock
+out_of_stock_during_checkout
+time_ran_out
+productOfferCommand
+result
+sceneId
+idempotencyKey
+time
+orderId
+customerId
+address
+response
+firstName
+lastName
+email
+phoneNumber
+address1
+address2
+country
+postalCode
+city
+state
+timestamp
+content
+productPurchaseStarted
+productPurchaseCancelled
+productPurchaseCompleted
+chat
+type
+RawValue
+disposeBag
+gameWatchdog
+sessions
+productOfferCommand
+socketCommands
+socketMessages
+shopifyClient
+productOfferApplePayDidComplete
+productOfferPurchaseComplete
+productOfferShopifyDidComplete
+productOfferPurchaseStarted
+isProductOfferEnded
+isProductPurchaseInProgress
+isShopifyCheckoutCompleted
+productOfferPurchaseEnded
+productOfferSessionEnded
+$__lazy_storage_$_productOfferSessionViewController
+checkoutInput
+currentCheckout
+paySession
+productPurchaseStartedMessage
+lastOrderId
+lastCustomerId
+lastAddress
+viewDidLoad
+initWithArrangedSubviews:
+init
+setDistribution:
+view
+addSubview:
+bottomAnchor
+constraintEqualToAnchor:constant:
+widthAnchor
+constraintEqualToConstant:
+heightAnchor
+centerXAnchor
+constraintEqualToAnchor:
+topAnchor
+leadingAnchor
+trailingAnchor
+centerYAnchor
+activateConstraints:
+mainRunLoop
+initWithNibName:bundle:
+dealloc
+initWithCoder:
+.cxx_destruct
+setAlpha:
+setText:
+setImage:
+initWithActivityIndicatorStyle:
+whiteColor
+setColor:
+setHidesWhenStopped:
+setTranslatesAutoresizingMaskIntoConstraints:
+setAdjustsFontSizeToFitWidth:
+setTextColor:
+setFont:
+setTextAlignment:
+setBackgroundColor:
+layer
+setCornerRadius:
+setMasksToBounds:
+alignment
+distribution
+axis
+blackColor
+darkGrayColor
+setNumberOfLines:
+setLineBreakMode:
+lightGrayColor
+setContentCompressionResistancePriority:forAxis:
+setContentMode:
+setClipsToBounds:
+rightAnchor
+dismissViewControllerAnimated:completion:
+setTintColor:
+CGColor
+setBorderColor:
+setBorderWidth:
+setAxis:
+setAlignment:
+setGeneratesDecimalNumbers:
+setNumberStyle:
+numberFromString:
+defaultSessionConfiguration
+sessionWithConfiguration:
+removeFromSuperview

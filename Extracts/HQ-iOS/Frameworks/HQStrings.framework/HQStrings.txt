@@ -1,0 +1,1101 @@
+@(#)PROGRAM:HQStrings  PROJECT:Hype-1
+HQStrings
+Country
+Language
+HQStrings
+BundleClass
+SaySSG
+ypSg
+ySsG
+SaySsG
+ySsG
+SaySDy
+ypGG
+ySSG
+ySS_SStG
+yS2SG
+name
+phoneCode
+countries
+locale
+preferredLanguages
+URLForResource:withExtension:
+JSONObjectWithData:options:error:
+initWithContentsOfURL:options:error:
+localizedStringForKey:value:table:
+pathForResource:ofType:
+initWithPath:
+mainBundle
+bundleForClass:
+A_cashout_request_has_already_been_submitted
+A cashout request has already been submitted.
+A_phone_number_is_required
+A phone number is required
+A_valid_country_is_required
+A valid country is required
+A_valid_PayPal_email_address_is_required
+A valid PayPal email address is required
+active_limit_players
+%{active}/%{limit} players
+Add_Friends_on_HQ
+Add Friends on HQ
+Add_people_you_know
+Add people you know
+Agree_and_Continue
+Agree and Continue
+All_shows_have_been_reviewed_You_re_all_set_for_cashing_out_Learn_more
+All shows have been reviewed! You
+re all set for cashing out. Learn more
+Allow_HQ_access_to_your_camera_so_you_can_take_photos_during_the_game
+Allow HQ access to your camera so you can take photos during the game.
+Already_submitted
+Already submitted
+An_error_occurred_while_accepting_request
+An error occurred while accepting request.
+An_error_occurred_while_blocking_user
+An error occurred while blocking user.
+An_error_occurred_while_cancelling_request
+An error occurred while cancelling request.
+An_error_occurred_while_retrieving_user
+An error occurred while retrieving user.
+An_error_occurred_while_retrieving_your_profile
+An error occurred while retrieving your profile.
+An_error_occurred_while_sending_friend_request_to_user
+An error occurred while sending friend request to user.
+An_error_occurred_while_unfriending_user
+An error occurred while unfriending user.
+An_update_to_the_latest_version_of_the_app_is_required
+An update to the latest version of the app is required
+and <b>Rules</b>
+Answer_questions_think_fast
+Answer questions, think fast
+Answer_trivia_questions_to_win_rewards
+Answer trivia questions to win rewards!
+Apply_referral_code
+Apply referral code
+Are_you_sure_you_want_to_block_username
+Are you sure you want to block %{username}?
+Are_you_sure_you_want_to_cashout_to_PayPal_account_email
+Are you sure you want to cashout to PayPal account %{email}?
+Are_you_sure_you_want_to_kick_username
+Are you sure you want to kick %{username}?
+Are_you_sure_you_want_to_leave_the_game
+Are you sure you want to leave the game?
+Are_you_sure_you_want_to_logout
+Are you sure you want to logout?
+Available_Balance
+Available Balance
+b_Back_in_the_game_b_You_used_an_Extra_Life
+<b>Back in the game!</b> You used an Extra Life.
+b_Error_loading_schedule_b
+<b>Error loading schedule</b>
+b_Game_now_live_b
+<b>Game now live</b>
+b_No_games_scheduled_b
+<b>No games scheduled</b>
+b_Privacy_Policy_b
+<b>Privacy Policy</b>,
+b_Terms_of_Service_b
+<b>Terms of Service</b>,
+b_Terms_of_Use_b
+<b>Terms of Use</b>,
+Back_in_the_game
+Back in the game!
+Back_in_the_game_You_used_an_Extra_Life
+Back in the game! You used an Extra Life.
+badgeCount_Badges
+%{badgeCount} Badges
+badgeCount_Badges_unlocked
+%{badgeCount} Badges unlocked!
+badgeName_Level_level
+%{badgeName} Level %{level}
+Badges_in_this_set
+Badges in this set
+Balance_In_Review
+Balance In Review
+Be_prepared_Buy_Extra_Lives_before_the_game_begins
+Be prepared! Buy Extra Lives before the game begins.
+Be_prepared_Buy_Extra_Lives_for_this_game_to_help_you_win
+Be prepared! Buy Extra Lives for this game to help you win.
+Be_prepared_Buy_more_Extra_Lives_to_help_you_win
+Be prepared! Buy more Extra Lives to help you win.
+bonusStrikeCount_Bonus_Strikes
+%{bonusStrikeCount} Bonus Strikes
+bonusStrikeCount
+By_continuing_you_agree_to_the_terms_and_pp
+By continuing, you agree to the %{terms} and %{pp}.
+By_entering_you_agree_to_the_competition
+By entering you agree to the %{competition}
+By_signing_up_you_agree_to_the
+By signing up you agree to the
+By_signing_up_you_agree_to_the_n_terms_privacy_and_rules
+By signing up you agree to the
+ %{terms}, %{privacy}, and %{rules}
+By_signing_up_you_agree_to_the_terms_privacy_and_rules
+By signing up you agree to the %{terms}, %{privacy}, and %{rules}
+By_tapping_Agree_and_continue_you_agree_to_the_terms_privacy_and_rules
+By tapping Agree and continue you agree to the %{terms}, %{privacy}, and %{rules}
+By_tapping_Get_Started_an_SMS_may_be_sent_Message_data_rates_may_apply
+By tapping Get Started, an SMS may be sent. Message & data rates may apply.
+By_tapping_Next_an_SMS_may_be_sent_Message_data_rates_may_apply
+By tapping Next, an SMS may be sent. Message & data rates may apply.
+Calculating_rewards
+Calculating rewards
+Camera_Access_Disabled
+Camera Access Disabled
+Can_retry_in_seconds
+Can retry in %{seconds}
+Cashout %{amount}
+Cashout_Complete
+Cashout Complete
+Cashout_Currently_Disabled
+Cashout Currently Disabled
+Cashout_for_one_or_more_shows_that_you_have_won_is_temporarily_disabled_Please_try_again_later
+Cashout for one or more shows that you have won is temporarily disabled. Please try again later.
+Cashout_with_PayPal
+Cashout with PayPal
+Cashouts_are_currently_disabled_Please_try_again_later
+Cashouts are currently disabled. Please try again later.
+Cashouts_are_disabled
+Cashouts are disabled
+Cashouts_to_PayPal_are_temporarily_disabled_Please_contact_customer_support
+Cashouts to PayPal are temporarily disabled. Please contact customer support.
+Charity_donations_are_temporarily_disabled_Please_contact_customer_support
+Charity donations are temporarily disabled. Please contact customer support.
+Choose_from_camera_roll
+Choose from camera roll
+Choose_from_Photos
+Choose from Photos
+Choose_the_show_you_heard_about_and_enter_your_friend_s_referral_code_to_earn_a_reward
+Choose the show you heard about and enter your friend
+s referral code to earn a reward
+Chosen_username_already_exists
+Chosen username already exists
+Code_sent_Retry_in_seconds
+Code sent. Retry in %{seconds}
+coinsPurchased_coins
++%{coinsPurchased} coins
+Come_back_into_the_game_for_your_chance_to_win
+Come back into the game for your chance to win.
+Coming_soon_To_get_in_early_play_near_someone_with_access_and_their_nearby_setting_enabled
+Coming soon. To get in early, play near someone with access and their nearby setting enabled.
+Congratulations!
+Congratulations_n_Tell_your_friends
+Congratulations!
+Tell your friends!
+Connect_Address_Book
+Connect Address Book
+Connect_Contacts
+Connect Contacts
+Connect_Instagram
+Connect Instagram
+Connect_with_your_friends_on_HQ_See_their_status_during_games_and_more_secret_friend_features_coming
+Connect with your friends on HQ. See their status during games and more secret friend features coming soon!
+Connect_your_account_to_discover_new_Instagram_users_and_get_new_followers_from_HQX
+Connect your account to discover new Instagram users and get new followers from HQX
+Connect_your_contacts_to_find_your_friends_on_HQ
+Connect your contacts to find your friends on HQ
+contactCount_contacts_on_HQ
+%{contactCount} contacts on HQ
+Continue_playing_with_an_extra_life_Earn_extra_lives_by_inviting_your_friends
+Continue playing with an extra life! Earn extra lives by inviting your friends.
+Continue_watching
+Continue watching
+Correctly_answer_more_category_questions_to_unlock_this_badge
+Correctly answer more %{category} questions to unlock this badge.
+Could_not_find_any_nearby_letters
+Could not find any nearby letters!
+%{count} Playing
+Daily_nChallenge
+days_day_streak_complete
+%{days} day streak complete!
+days_day_streak_Here_s_an_Extra_Life_for_your_next_game
+*%{days}-day streak!* Here's an Extra Life for your next game.
+Disconnect_account
+Disconnect %{account}
+Discoverable_nearby
+Discoverable nearby
+Do_you_want_to_unlink_your_account_account
+Do you want to unlink your %{account} account?
+Don_t_miss_a_game
+Don't miss a game!
+Don_t_miss_the_next_HQ_show_We_send_push_notifications_to_alert_you_when_our_shows_are_live
+Don't miss the next HQ show. We send push notifications to alert you when our shows are live.
+Don_t_miss_the_next_HQ_Trivia_game_We_send_push_notifications_to_alert_you_when_the_game_is_live
+Don't miss the next HQ Trivia game. We send push notifications to alert you when the game is live.
+Donate %{amount}
+Donation_Request_Submitted
+Donation Request Submitted
+Earn_a_special_reward_per_show_by_entering_referral_codes_below
+Earn a special reward per show by entering referral codes below.
+Earn_Erasers_by_playing_with_cost_players
+Earn *Erasers* by playing with %{cost} players
+Earn_Power_Ups_when_you_refer_friends
+Earn Power Ups when you refer friends
+Earned_this_game
+Earned this game
+earnedPoints_points
++%{earnedPoints} points
+Employees_are_not_allowed_to_cashout
+Employees are not allowed to cashout
+Enable_Notifications
+Enable Notifications
+Enable_this_setting_to_be_discoverable_to_people_playing_HQ_near_you_It_s_fun
+Enable this setting to be discoverable to people playing HQ near you. It's fun!
+Enable_this_setting_to_earn_power_ups_by_finding_nearby_people_playing_HQ
+Enable this setting to earn power ups by finding nearby people playing HQ!
+Enable_this_to_automatically_keep_your_contacts_on_HQ_up_to_date
+Enable this to automatically keep your contacts on HQ up to date.
+Enter_a_friend_s_HQ_username_as_your_referral_code
+Enter a friend's HQ username as your referral code.
+Enter_a_Referral_Code
+Enter a Referral Code
+Enter for %{prize}
+Enter_Referral_Code
+Enter Referral Code
+Enter_Referral_Codes
+Enter Referral Codes
+Enter_the_verification_code_sent_to_phoneNumber
+Enter the verification code sent to %{phoneNumber}
+Enter_Verification_Code
+Enter Verification Code
+Enter_your_phone_number
+Enter your phone number
+Eraser_earned_Use_an_Eraser_to_eliminate_one_wrong_answer_during_a_question
+*Eraser earned!* Use an Eraser to eliminate one wrong answer during a question.
+Eraser_earned_Use_it_to_eliminate_a_wrong_answer_during_a_question
+*Eraser earned!* Use it to eliminate a wrong answer during a question.
+Erasers_eliminate_an_answer_Use_them_during_a_question
+*Erasers* eliminate an answer. Use them during a question
+Erasers_hide_a_wrong_answer_Tap_the_Eraser_during_a_question_to_use_one
+Erasers hide a wrong answer. Tap the Eraser during a question to use one
+Error_Loading_Media
+Error Loading Media
+Error_loading_schedule
+Error loading schedule
+EU_Privacy_Policy
+EU Privacy Policy
+Expires in %{time}
+Extra_Life_earned
+Extra Life earned!
+Extra_Life_granted
+Extra Life granted!
+Failed_to_accept_friend_request
+Failed to accept friend request
+Failed_to_reject_friend_request
+Failed to reject friend request
+Failed_to_send_friend_request
+Failed to send friend request
+Fetching_nearby_letters
+Fetching nearby letters
+Finding_nearby_players_to_collect_an_Eraser_power_up
+Finding nearby players to collect an *Eraser* power up
+First_join_the_live_game
+First, join the live game
+Forfeited_Balance
+Forfeited Balance
+Found_a_player_nearby
+Found a player nearby!
+Found_an_HQ_Words_player_nearby_You_ve_unlocked_the_game
+Found an HQ Words player nearby! You've unlocked the game.
+Found_name1_and_name2
+Found *%{name1}* and *%{name2}*
+Found_name1_and_name2_nearby
+Found *%{name1}* and *%{name2}* nearby
+Found_name_nearby
+Found *%{name}* nearby
+Found_username_nearby_looking_for_remaining_more_players
+Found *%{username}* nearby, looking for %{remaining} more players
+Free_Pass_through_Q_level
+Free Pass through Q%{level}
+friendCount_friends
+%{friendCount} friends
+friendCount_friends_still_in
+%{friendCount} friends still in
+friendRequestCount_friend_requests
+%{friendRequestCount} friend requests
+friendRequestCount
+Get_more_coins_to_buy_Power_Ups
+Get more coins to buy Power Ups!
+Get_notified_when_n_shows_are_live
+Get notified when
+ shows are live
+Get_notified_when_nHQ_is_live
+Get notified when
+HQ is live?
+Get_notified_when_the_shows_are_live
+Get notified when the shows are live:
+Get_Power_Ups_to_help_you_win
+Get Power Ups to help you win!
+Get %{productName}
+Get_them_all_right_and_you_win
+Get them all right and you win
+Grant_Extra_Life
+Grant Extra Life
+Have_your_photo_seen_by_more_people_with_a_Boost
+Have your photo seen by more people with a Boost
+Help_us_spread_the_word
+Help us spread the word
+Here_s_an_Extra_Life_for_your_next_game
+Here's an Extra Life for your next game!
+Hey_I_m_playing_a_game_called_HQ_Trivia_You_should_play_too_Use_my_code_username_to_sign_up_https_ge
+Hey, I
+m playing a game called HQ Trivia. You should play too. Use my code '%{username}' to sign up https://get.hqtrivia.com
+Hit_us_up_on_Twitter_hqtrivia
+Hit us up on Twitter @hqtrivia
+HQ_is_at_capacity
+HQ is at capacity
+I_can_t_believe_I_got_this_question_wrong_on_HQ_Trivia
+I can
+t believe I got this question wrong on HQ Trivia!
+I_can_t_believe_I_got_this_question_wrong_on_hqtrivia
+I can
+t believe I got this question wrong on @hqtrivia!
+I_just_got_round_questions_correct_on_HQ_Trivia_That_s_a_new_record_for_me_You_should_play_too_Use_m
+I just got %{round} questions correct on HQ Trivia! That
+s a new record for me. You should play too. Use my code "%{username}" to sign up www.hqtrivia.com
+I_just_got_round_questions_correct_on_hqtrivia_That_s_a_new_record_for_me_You_should_play_too_Use_my
+I just got %{round} questions correct on @hqtrivia! That
+s a new record for me. You should play too. Use my code "%{username}" to sign up www.hqtrivia.com
+I_just_unlocked_the_badge_Badge_on_HQ_Trivia_Use_code_code_to_sign_up_https_get_hqtrivia_com
+I just unlocked the %{badge} Badge on HQ Trivia! Use code "%{code}" to sign up https://get.hqtrivia.com
+I_just_unlocked_the_badge_Badge_on_hqtrivia_Use_code_code_to_sign_up_https_get_hqtrivia_com
+I just unlocked the %{badge} Badge on @hqtrivia! Use code "%{code}" to sign up https://get.hqtrivia.com
+I_just_won_prize_on_gameName_You_should_play_too_Use_my_code_username_when_you_sign_up_www_hqtrivia_
+I just won %{prize} on %{gameName}! You should play too. Use my code "%{username}" when you sign up www.hqtrivia.com
+I_just_won_prize_on_HQ_Trivia_You_should_play_too_Use_my_code_username_when_you_sign_up_www_hqtrivia
+I just won %{prize} on HQ Trivia! You should play too. Use my code "%{username}" when you sign up www.hqtrivia.com
+I_just_won_prize_on_HQ_Trivia_You_should_play_too_www_hqtrivia_com
+I just won %{prize} on HQ Trivia! You should play too. www.hqtrivia.com
+I_just_won_prize_on_hqtrivia_You_should_play_too_Use_my_code_username_when_you_sign_up_www_hqtrivia_
+I just won %{prize} on @hqtrivia! You should play too. Use my code "%{username}" when you sign up www.hqtrivia.com
+I_just_won_prize_on_twitterHandle_You_should_play_too_Use_my_code_username
+I just won %{prize} on %{twitterHandle}! You should play too. Use my code "%{username}"
+I_m_playing_a_game_called_appName_You_should_play_too
+I'm playing a game called %{appName}! You should play too.
+I_m_playing_a_game_called_gameName_You_should_play_too_Use_my_code_username_to_sign_up_www_hqtrivia_
+I'm playing a game called %{gameName}! You should play too. Use my code "%{username}" to sign up www.hqtrivia.com
+I_m_playing_live_game_shows_on_HQ_You_should_play_too_Use_my_code_username_to_sign_up_www_hqtrivia_c
+I'm playing live game shows on HQ! You should play too. Use my code "%{username}" to sign up www.hqtrivia.com
+I_won_prize_playing_n_hqNameVariant
+I won %{prize} playing
+%{hqNameVariant}
+If_everyone_gets_eliminated_the_n_prize_rolls_over_to_the_next_day
+If everyone gets eliminated, the
+prize rolls over to the next day.
+If_more_than_one_person_makes_it_to_the_end_then_split_the_prize
+If more than one person makes it to the end, then split the prize.
+If_you_tap_an_incorrect_answer_n_or_you_run_out_of_time_you_ll_be_n_eliminated_from_winning_the_priz
+If you tap an incorrect answer
+or you run out of time, you'll be
+eliminated from winning the prize.
+In_order_to_cash_out_please_fill_out_all_fields_below
+In order to cash out, please fill out all fields below.
+In_order_to_cash_out_please_fill_out_all_fields_below_even_if_email_address_and_PayPal_email_address
+In order to cash out, please fill out all fields below, even if email address and PayPal email address are the same.
+In_order_to_cash_out_please_fill_out_the_form_below_All_fields_are_required
+In order to cash out please fill out the form below. All fields are required.
+In_order_to_cash_out_please_input_your_PayPal_email_address
+In order to cash out, please input your PayPal email address.
+In_order_to_donate_your_winnings_please_fill_out_all_fields_below
+In order to donate your winnings, please fill out all fields below.
+In_the_meantime_warm_up_nand_win_coins
+In the meantime, warm up
+and win coins!
+Invalid_referral_code
+Invalid referral code!
+Invite_your_friends_to_play_HQ
+Invite your friends to play HQ!
+Keep_playing_for_amount
+Keep playing for *%{amount}*!
+Kicking_username_failed
+Kicking %{username} failed
+level_Bonus_Strikes
+%{level} Bonus Strikes
+Level_level_rewards
+Level %{level} rewards
+Level_levelNumber
+Level %{levelNumber}
+Lifetime_Winnings
+Lifetime Winnings
+Lifetime_winnings
+Lifetime winnings
+Link_a_social_account
+Link a social account
+Linked_social_accounts
+Linked social accounts
+Live_sports_trivia_game_show_with_cash_prizes
+Live sports trivia game show with cash prizes.
+Live_trivia_game_show
+Live trivia game show
+Live_trivia_n_game_show
+Live trivia
+game show
+Loading_schedule
+Loading schedule
+Log_in_or_sign_up
+Log in or sign up
+messageCount_new_messages
+%{messageCount} new messages
+minPoints_maxPoints_points
+%{minPoints}-%{maxPoints} points
+Multiply_your_game_points
+Multiply your game points
+My_new_record_on_socialNetwork
+My new record on %{socialNetwork}
+nearbyCount_people_nearby
+%{nearbyCount} people nearby
+New_Feature_n_Find_Friends_on_HQ
+New Feature:
+Find Friends on HQ
+Next_Game_in_timer
+Next Game in %{timer}
+Next_Game_showTitle
+Next Game: %{showTitle}
+Next_prize_in_questionCount_questions
+Next prize in %{questionCount} questions
+Next_prize_n_in_questionCount_questions
+*Next prize*
+in %{questionCount} questions
+Next_Round_in_time
+Next Round in %{time}
+Next_time_continue_playing_with_an_Extra_Life_Get_Extra_Lives_by_inviting_friends
+Next time, continue playing with an Extra Life! Get Extra Lives by inviting friends.
+No_account_found_with_that_number_nPlease_create_one_below
+No account found with that number.
+Please create one below.
+No_games_scheduled
+No games scheduled
+No_internet_connection
+No internet connection
+No_winners_No_worries
+No winners? No worries
+Notification_let_you_know_when_games_are_live
+Notification let you know when games are live.
+Now_playing_in_Rewards_Mode
+Now playing in Rewards Mode
+%{number} correct
+number_incorrect
+%{number} incorrect
+Okay_we_ll_call_you_with_the_verification_code
+Okay, we'll call you with the verification code
+Okay_we_ll_resend_the_verification_code_to_phoneNumber
+Okay, we'll resend the verification code to %{phoneNumber}
+Once_you_have_won_you_can_cashout_n_directly_to_your_PayPal_account
+Once you have won, you can cashout
+directly to your PayPal account.
+One_strike_and_you_re_out
+One strike and you're out
+Oops_something_went_wrong_Please_try_again_later
+Oops, something went wrong. Please try again later.
+or_sign_in_via_via
+or sign in via %{via}
+P_puzzleNumber_of_puzzleCount
+P%{puzzleNumber} of %{puzzleCount}
+Payment_for_one_or_more_shows_that_this_account_has_won_is_temporarily_disabled_Please_try_again_lat
+Payment for one or more shows that this account has won is temporarily disabled. Please try again later.
+Paypal_email_address
+Paypal email address
+percent_complete
+%{percent} complete
+Pick_your_favorite
+Pick your favorite
+Play_a_game_tonight_to_win_some_cash
+Play a game tonight to win some cash!
+Play_again_now_for
+Play again now for
+Play_days_more_days_in_a_row
+Play %{days} more days in a row
+Play_days_more_days_in_a_row_to_earn_an_Extra_Life
+Play %{days} more days in a row to earn an Extra Life!
+Play_game_now_with
+Play %{game} now with
+Play_gameCount_games
+Play %{gameCount} games
+Play_HQ_Trivia_HQ_Sports_and_HQ_Words
+Play HQ Trivia, HQ Sports, and HQ Words
+Play_HQ_Trivia_Sports
+Play HQ Trivia & Sports
+Play_live_game_shows_and_win_cash_prizes_with_me_on_gameName_Use_my_code_username_to_sign_up_downloa
+Play live game shows and win cash prizes with me on %{gameName}. Use my code '%{username}' to sign up! %{downloadUrl}
+Play_warm_up_game
+Play warm up game
+Play_with_cost_nearby_players_and_you_ll_each_earn_an_Eraser
+Play with %{cost} nearby players and you'll each earn an Eraser
+players_in_VIP_Prize
+%{players} in VIP Prize
+%{players} remain
+playersCount_players
+%{playersCount} players
+Playing_for_points
+Playing for points
+Please_do_not_comment_repeatedly
+Please do not comment repeatedly.
+Please_enter_a_valid_email_address
+Please enter a valid email address
+Please_enter_a_valid_name
+Please enter a valid name
+Please_enter_a_valid_phone_number
+Please enter a valid phone number
+Please_enter_a_valid_username_in_the_referral_code_box
+Please enter a valid username in the referral code box.
+Please_enter_a_valid_verification_code
+Please enter a valid verification code
+Please_enter_the_verification_code_sent_to_phoneNumber
+Please enter the verification code sent to %{phoneNumber}
+Please_tell_us_a_bit_about_the_bug
+Please tell us a bit about the bug:
+Please_try_again_later
+Please try again later
+Please_try_again_soon
+Please try again soon
+Please_try_the_next_game
+Please try the next game
+Please_try_the_next_game_gameInfo
+Please try the next game: %{gameInfo}
+Please_verify_that_the_email_used_above_is_a_valid_PayPal_email_account_Transfers_to_your_account_ma
+Please verify that the email used above is a valid PayPal email account. Transfers to your account may take up to 15 days.
+Point_Multiplier
+Point Multiplier
+Point_Multipliers
+Point Multipliers
+pointCount_pts_away_from_Level_level
+%{pointCount} pts away from Level %{level}
+Points_on_this_game
+Points on this game
+%{points} points
+pointsMultiplier_x_Points
+%{pointsMultiplier}x Points
+pointsMultiplier
+prizeAmount_prize
+%{prizeAmount} prize
+Pull_down_to_leave_the_game
+Pull down to leave the game
+Puzzle_puzzleNumber
+Puzzle %{puzzleNumber}
+Q1_is_about_to_start
+Q1 is about to start!
+Q_questionNumber_of_questionCount
+Q%{questionNumber} of %{questionCount}
+questionNumber_of_questionCount
+%{questionNumber} of %{questionCount}
+questions_n_players_remain
+%{questions} &
+%{players} remain
+questionsCount_questions
+%{questionsCount} questions
+R_roundNumber_of_roundCount
+R%{roundNumber} of %{roundCount}
+recommendedCount_recommended_friends
+%{recommendedCount} recommended friends
+recommendedCount
+Referral_code_confirmed
+Referral code confirmed
+Referral_code_optional
+Referral code (optional)
+referralCount_referrals_left
+%{referralCount} referrals left
+Refresh_contacts
+Refresh contacts
+Remove_existing_photo
+Remove existing photo
+Request_cannot_be_completed
+Request cannot be completed
+Request_no_longer_exists
+Request no longer exists.
+Resend_code_in_timeLeft
+Resend code in %{timeLeft}
+Rest_of_World_Privacy_Policy
+Rest of World Privacy Policy
+Round_1_is_about_to_start
+Round 1 is about to start!
+Round_roundNumber
+Round %{roundNumber}
+Round_roundNumber_Results
+Round %{roundNumber} Results
+Save_your_Super_Spin
+Save your Super Spin
+Say something
+Search_for_a_friend_by_username_to_make_your_first_connection
+Search for a friend by username to make your first connection
+Search_results_for_searchTerm
+Search results for "%{searchTerm}"
+Searching_for_cost_nearby_players_to_collect_an_Eraser_power_up
+Searching for %{cost} nearby players to collect an *Eraser* power up
+Secure_your_HQ_account_by_linking_one_of_the_below_accounts
+Secure your HQ account by linking one of the below accounts:
+Select_an_avatar
+Select an avatar
+Send_notification
+Send notification
+Share_code_username
+Share code: %{username}
+Share_to_Facebook
+Share to Facebook
+Share_to_Twitter
+Share to Twitter
+Share_with_friends
+Share with friends
+Share_wrong_answer
+Share wrong answer
+shareCount_shares_left
+%{shareCount} shares left
+Something_went_wrong
+Something went wrong
+Something_went_wrong_nPlease_try_again
+Something went wrong.
+Please try again.
+Sorry_erasers_are_not_allowed_on_this_question
+Sorry, erasers are not allowed on this question
+Sorry_something_went_wrong
+Sorry, something went wrong.
+Sorry_that_didn_t_work
+Sorry, that didn't work.
+Sorry_the_box_is_empty
+Sorry, the box is empty.
+Sorry_we_couldn_t_sign_you_in_right_now_Try_again_in_a_few
+Sorry, we couldn't sign you in right now. Try again in a few?
+Sorry_you_don_t_have_enough_coins_You_ll_be_able_to_buy_more_soon
+Sorry, you don
+t have enough coins. You
+ll be able to buy more soon.
+Sorry_you_need_a_minimum_balance_of_minBalance_to_cashout_Win_some_more_games
+Sorry, you need a minimum balance of %{minBalance} to cashout. Win some more games!
+Spin_normal_wheel
+Spin normal wheel
+Spin_the_Super_Wheel
+Spin the Super Wheel!
+Spin_the_wheel_for_a_free_letter
+Spin the wheel for a free letter
+Start_the_Next_Game
+Start the Next Game
+Start_the_Next_Round
+Start the Next Round
+Starting_shortly
+Starting shortly
+Stay_in_the_game_with_an_Extra_Life
+Stay in the game with an Extra Life
+Still_have_questions
+Still have questions?
+strikeCount_strikes_left
+%{strikeCount} strikes left
+strikeCount_strikes_left_this_round
+%{strikeCount} strikes left this round!
+Subscribe_to_games_that_you_are_interested_in_so_you_don_t_miss_out_when_we_go_live
+Subscribe to games that you are interested in so you don
+t miss out when we go live!
+Success_You_bought_extraLifeCount_Extra_Lives_to_help_you_win
+Success! You bought %{extraLifeCount} Extra Lives to help you win.
+Success_You_have_count_name
+Success! You have %{count} %{name}.
+Suggested_friends
+Suggested friends
+suggestedCount_suggested_friends
+%{suggestedCount} suggested friends
+Swipe_left_to_reveal_comments
+Swipe left to reveal comments
+Swipe_right_to_play_mini_games
+Swipe right to play mini games
+Tap_here_to_buy_an_Extra_Life_to_help_you_win
+Tap here to buy an *Extra Life* to help you win!
+Tap_here_to_use_an_Eraser_during_a_question
+Tap here to use an *Eraser* during a question
+Tap_the_answer_you_think_is_n_correct_in_under_10_seconds
+Tap the answer you think is
+correct in under 10 seconds.
+Tap_to_enable_Nearby_to_collect_an_Eraser_power_up
+Tap to enable *Nearby* to collect an Eraser power up
+Tell_us_about_your_n_experience
+Tell us about your 
+ experience
+Terms_of_Service
+Terms of Service
+Thank_you_username_your_request_to_donate_amount_to_charityName_has_been_submitted
+Thank you %{username}, your request to donate %{amount} to %{charityName} has been submitted.
+Thanks_for_being_patient_n_Your_game_will_resume_shortly
+Thanks for being patient! 
+ Your game will resume shortly.
+That_is_not_a_valid_email_address
+That is not a valid email address.
+That_s_your_best_so_far
+That's your best so far.
+The_email_you_provided_is_invalid
+The email you provided is invalid
+The_next_question_has_already_started
+The next question has already started
+The_show_will_nstart_soon
+The show will
+start soon
+The_VIP_Game_is_full
+The VIP Game is full
+The_VIP_Prize_is_cancelled
+The VIP Prize is cancelled
+There_was_a_problem_Please_try_again_soon
+There was a problem. Please try again soon.
+There_was_an_issue_uploading_your_address_book_Please_try_again_soon
+There was an issue uploading your address book. Please try again soon.
+Think_of_a_subject_that_interests_you_then_think_of_one_fact_or_specific_thing_you_like_Now_Google_i
+Think of a subject that interests you, then think of one fact or specific thing you like. Now Google it and dig into the results until you have a fascinating nugget. Finally, work it into an intriguing question, with proper grammar and spelling.
+This_account_is_not_linked_to_this_phone_number_Continue_to_create_a_new_account
+This account is not linked to this phone number. Continue to create a new account?
+This_account_is_not_linked_to_this_phone_number_Continue_to_sign_in
+This account is not linked to this phone number. Continue to sign in?
+This_account_is_under_review_for_a_violation_of_the_Terms_of_Use_and_or_Rules_Payment_is_disabled_un
+This account is under review for a violation of the Terms of Use and/or Rules. Payment is disabled until review is complete.
+This_broadcast_has_ended
+This broadcast has ended
+This_email_is_already_associated_with_another_HQ_Trivia_account_Using_the_same_email_address_on_diff
+This email is already associated with another HQ Trivia account. Using the same email address on different accounts is against the Terms of Use.
+This_feature_is_not_available_in_your_area
+*This feature is not available in your area.*
+This_party_is_at_capacity_Try_again_in_a_few
+This party is at capacity. Try again in a few?
+This_Season_has_ended_Check_back_soon_for_details_on_the_next_season
+This Season has ended. Check back soon for details on the next season.
+This_version_of_HQ_Trivia_is_no_longer_supported_To_continue_please_update_the_app_in_the_App_Store
+This version of HQ Trivia is no longer supported. To continue, please update the app in the App Store.
+This_version_of_HQ_Trivia_is_outdated_Don_t_miss_out_on_the_latest_features_Please_update_before_con
+This version of HQ Trivia is outdated. Don't miss out on the latest features. Please update before continuing.
+To_be_reminded_when_HQ_goes_live_please_enable_notifications_in_iOS_settings
+To be reminded when HQ goes live please enable notifications in iOS settings.
+To_continue_you_must_secure_your_HQ_account_by_linking_one_of_the_below_accounts
+To continue you must secure your HQ account by linking one of the below accounts
+Tonight_s_Jackpot
+Tonight
+s Jackpot
+Too_many_requests
+Too many requests
+Try_another_photo
+Try another photo
+Turn_on_Bluetooth_to_collect_an_Eraser_power_up
+Turn on *Bluetooth* to collect an Eraser power up
+Turn_On_Camera_in_Settings
+Turn On Camera in Settings
+Turn_on_notifications
+Turn on notifications
+Type_your_question_here
+Type your question here
+Unable_to_Cashout
+Unable to Cashout
+Unable_to_load_image
+Unable to load image
+Unable_to_load_your_balance_Please_try_again_soon
+Unable to load your balance. Please try again soon.
+Unable_to_load_your_preferences
+Unable to load your preferences
+Unlock_badges_by_getting_nquestions_right_in_ndifferent_topics
+Unlock badges by getting
+questions right in
+different topics.
+Unlock_Next_Game
+Unlock Next Game
+unlocks_Unlocks_left
+%{unlocks} Unlocks left
+Update_Available
+Update Available
+Update_in_App_Store
+Update in App Store
+Update_in_Play_Store
+Update in Play Store
+Update_Location_Settings_to_compete_for_the_VIP_Prize
+Update Location Settings to compete for the VIP Prize.
+Update required.
+Upgrade_to_Super_Spin
+Upgrade to Super Spin
+Upgrade_to_Super_Wheel
+Upgrade to Super Wheel
+Use_a_Game_Unlock
+Use a Game Unlock
+Use_a_Super_Spin
+Use a Super Spin
+Use_a_Super_Spin_to_get_more_letters_and_special_Power_Ups_in_HQ_Words
+Use a Super Spin to get more letters and special Power Ups in HQ Words.
+Use_an_Eraser_to_eliminate_one_wrong_answer_during_a_question
+Use an Eraser to eliminate one wrong answer during a question.
+Use_my_code_code_to_sign_up_url
+Use my code "%{code}" to sign up %{url}
+user_was_kicked_out
+%{user} was kicked out.
+userCount_others
+%{userCount} others
+userCount_others_still_in
+%{userCount} others still in
+userCount_people
+%{userCount} people
+%{userCount} VIPs
+userCount_VIPs_still_in
+%{userCount} VIPs still in
+Username_already_taken
+Username already taken!
+username_and_username2_were_eliminated
+%{username} and %{username2} were eliminated.
+Username_available
+Username available!
+username_joined_the_game
+%{username} joined the game.
+Username_unavailable
+Username unavailable!
+username_used_an_Extra_Life
+%{username} used an Extra Life.
+username_username2_and_friendCount_other_friends_were_eliminated
+%{username}, %{username2}, and %{friendCount} other friends were eliminated.
+username_was_eliminated
+%{username} was eliminated.
+username_was_kicked_successfully
+%{username} was kicked successfully
+username_was_silently_kicked
+%{username} was silently kicked
+username_won_the_game
+%{username} won the game!
+Usernames_must_be_3_15_characters_long_and_can_contain_only_letters_numbers_or_Inappropriate_languag
+Usernames must be 3-15 characters long and can contain only letters, numbers, - , or _ . Inappropriate language in usernames is a violation of the Terms of Use. Your username will also be your referral code.
+Using_Extra_Life_in_seconds
+Using Extra Life in %{seconds}
+Valid_referral_code
+Valid referral code!
+Warm_up_win_coins
+Warm up & win coins
+Watch_as_a_guest
+Watch as a guest
+We_are_phasing_out_phone_number_logins_Please_login_with_your_linked_account_below
+We are phasing out phone number logins. Please login with your linked account below.
+We_are_reviewing_your_information_and_will_contact_you_if_additional_information_is_necessary
+We are reviewing your information and will contact you if additional information is necessary.
+We_are_still_processing_your_Extra_Lives_Please_check_back_later
+We are still processing your Extra Lives. Please check back later.
+We_are_still_processing_your_payment_Please_check_back_later
+We are still processing your payment. Please check back later.
+We_have_updated_our_Privacy_Policy
+We have updated our Privacy Policy
+We_ll_send_a_push_notification_Don_t_be_late_or_you_ll_watch_only
+We'll send a push notification. Don't be late or you'll watch only.
+We_re_having_trouble_connecting_Try_again_in_a_few
+We're having trouble connecting. Try again in a few?
+We_review_all_submissions_but_don_t_make_any_promises_to_include_them_in_games_We_ll_let_you_know_if
+We review all submissions but don't make any promises to include them in games. We'll let you know if we use yours.
+We_started_the_game_without_you_You_can_watch_and_chat_only_Join_earlier_next_time_to_play_for_the_p
+We started the game without you. You can watch and chat only. Join earlier next time to play for the prize.
+We_use_Location_to_show_you_nearby_players_and_allow_you_to_add_them_as_friends_on_HQ
+We use Location to show you nearby players and allow you to add them as friends on HQ
+We_ve_updated_our_Privacy_Policy
+We've updated our Privacy Policy.
+We_were_unable_to_delete_your_avatar_Please_try_again_later
+We were unable to delete your avatar. Please try again later.
+We_were_unable_to_process_your_purchase_in_time_Your_Extra_Life_will_be_available_in_a_future_game
+We were unable to process your purchase in time. Your Extra Life will be available in a future game
+We_were_unable_to_update_your_avatar_Please_try_again_later
+We were unable to update your avatar. Please try again later.
+We_were_unable_to_update_your_referral_code_Please_try_again_later
+We were unable to update your referral code. Please try again later.
+We_were_unable_to_update_your_username_Please_try_again_later
+We were unable to update your username. Please try again later.
+Welcome_back_You_ve_been_eliminated_but_can_still_watch
+*Welcome back.* You've been eliminated but can still watch.
+Win *%{amount}* now
+winnerCount_Winners
+%{winnerCount} Winners!
+words_words_found
+%{words} words found
+Wrong_answer_Continue_playing_with_an_Extra_Life
+Wrong answer? Continue playing with an Extra Life.
+Wrong_answer_Continue_playing_with_an_Extra_Life_Extra_Lives_are_applied_automatically_and_once_per_
+Wrong answer? Continue playing with an Extra Life. Extra Lives are applied automatically and once per game.
+Wrong_answer_Keep_playing_with_an_Extra_Life_Get_one_every_time_a_new_HQ_user_signs_up_with_your_ref
+Wrong answer? Keep playing with an Extra Life. Get one every time a new HQ user signs up with your referral code and plays their first game. They can be used once per game, except on the last question.
+Yay_You_played_days_days_in_a_row
+Yay! You played %{days} days in a row!
+You_and_your_friend_will_earn_an_Extra_Life
+You and your friend will earn an Extra Life
+You_are_already_friends
+You are already friends.
+You_are_unauthorized_to_cashout
+You are unauthorized to cashout
+You_can_t_win_the_cash_prize_but_get_pointsToGo_more_points_to_earn_an_Extra_Life
+You can't win the cash prize, but get %{pointsToGo} more points to earn an Extra Life!
+You_can_use_your_purchased_ticket_for_the_next_game
+You can use your purchased ticket for the next game.
+You_didn_t_enter_a_number_yet
+You didn
+t enter a number yet
+You_do_not_meet_the_minimum_balance_to_cashout_Win_some_more_games
+You do not meet the minimum balance to cashout. Win some more games!
+You_earned_an_Eraser
+You earned an Eraser!
+You_earned_an_Eraser_by_playing_with_player1
+You earned an Eraser by playing with %{player1}!
+You_earned_an_Eraser_by_playing_with_player1_and_player2
+You earned an Eraser by playing with %{player1} and %{player2}!
+You_earned_an_Eraser_by_playing_with_player1_player2_and_player3
+You earned an Eraser by playing with %{player1}, %{player2}, and %{player3}!
+You_earned_an_Extra_Life
+You earned an Extra Life!
+You_found_an_Extra_Life
+You found an Extra Life!
+You_got_a_product
+You got a %{product}!
+You_got_an_Extra_Life
+You got an Extra Life!
+You_got_an_Extra_Life_from_HQ_
+You got an Extra Life from HQ! 
+You_got_coinCount_coins
+You got %{coinCount} coins!
+You_got_dollarCount_dollars
+You got %{dollarCount} dollars!
+You_got_lifeCount_Extra_Lives
+You got %{lifeCount} Extra Lives!
+You_got_lifeCount_Extra_Lives_from_sender
+You got %{lifeCount} Extra Lives from %{sender}!
+You_got_number_products
+You got %{number} %{products}!
+You_got_points_more_points
+You got %{points} more points!
+You_got_round_of_totalAnswers_correct
+You got %{round} of %{totalAnswers} correct!
+You_got_the_letter_letter
+You got the letter %{letter}!
+You_got_the_letter_letter_and_extraLifeCount_extra_lives
+You got the letter %{letter} and %{extraLifeCount} extra lives!
+You_got_the_letters_letters
+You got the letters %{letters}!
+You_got_the_n_product
+You got the
+%{product}!
+You_got_to_Level_level
+You got to Level %{level}
+You_have_0_Extra_Lives_nBuy_some_to_help_you_win
+*You have 0 Extra Lives*
+Buy some to help you win!
+You_have_already_applied_a_referral_code_You_may_only_do_this_once
+You have already applied a referral code. You may only do this once.
+You_have_an_Extra_Life
+You have an Extra Life!
+You_have_been_removed_from_the_game_for_a_violation_of_HQ_s_Terms_of_Service_and_Contest_Rules
+You have been removed from the game for a violation of HQ
+s Terms of Service and Contest Rules.
+You_have_extraLifeCount_Extra_Lives
+You have %{extraLifeCount} Extra Lives!
+You_have_reached_the_maximum_number_of_Friends_We_are_working_to_increase_this_limit_soon
+You have reached the maximum number of Friends. We are working to increase this limit soon.
+You_leveled_up_to_Level_level
+You leveled up to Level %{level}
+You_ll_receive_an_email_with_further_instructions
+You'll receive an email with further instructions.
+You_must_be_signed_in_to_access_this_feature
+You must be signed in to access this feature
+You_must_keep_at_least_one_social_account_linked_to_play_HQ
+You must keep at least one social account linked to play HQ.
+You_must_wait_a_short_period_between_phone_verification_requests
+You must wait a short period between phone verification requests
+You_must_wait_a_short_period_between_verification_code_requests
+You must wait a short period between verification code requests
+You_need_more_Coins_to_buy_that_Power_Up
+You need more Coins to buy that Power Up
+You_ran_out_of_time
+You ran out of time!
+You_re_back_in_the_game_No_one_was_correct
+*You
+re back in the game!* No one was correct.
+You_re_eliminated
+You're eliminated.
+You_re_Incorrect
+You're Incorrect!
+You_re_late_We_started_the_game_but_you_can_still_watch
+*You're late.* We started the game but you can still watch.
+You_re_out_of_the_cash_game_but_you_can_keep_playing_for_other_rewards
+You're out of the cash game, but you can keep playing for other rewards.
+You_re_too_late_to_win_the_cash_prize_but_can_still_play_for_points_to_earn_an_Extra_Life
+You're too late to win the cash prize, but can still play for points to earn an Extra Life!
+You_re_using_an_Eraser
+You're using an *Eraser*
+You_reached_Q_reached_and_got_correctCount_of_totalCount_Qs_correct
+You reached Q%{reached} and got %{correctCount} of %{totalCount} Qs correct.
+You_successfully_linked_your_provider_account
+You successfully linked your %{provider} account.
+You_unlocked_badgeCount_Badges
+You unlocked %{badgeCount} Badges
+You_ve_been_eliminated_from_the_game_You_can_watch_and_chat_only
+You've been eliminated from the game. You can watch and chat only.
+You_ve_been_kicked
+You've been kicked
+You_ve_entered_to_win_the_VIP_Prize
+*You've entered to win the VIP Prize!*
+You_ve_got_a_bunch_of_letters
+You've got a bunch of letters!
+You_ve_got_the_letter_firstLetter
+You've got the letter %{firstLetter}!
+You_ve_got_the_letters_firstLetter_and_secondLetter
+You've got the letters %{firstLetter} and %{secondLetter}!
+You_ve_got_the_letters_firstLetter_secondLetter_and_thirdLetter
+You've got the letters %{firstLetter}, %{secondLetter}, and %{thirdLetter}!
+You_ve_got_the_letters_firstLetter_secondLetter_thirdLetter_and_fourthLetter
+You've got the letters %{firstLetter}, %{secondLetter}, %{thirdLetter}, and %{fourthLetter}!
+You_ve_got_the_letters_firstLetter_secondLetter_thirdLetter_fourthLetter_and_fifthLetter
+You've got the letters %{firstLetter}, %{secondLetter}, %{thirdLetter}, %{fourthLetter}, and %{fifthLetter}!
+You_ve_violated_the_terms_of_service_so_you_will_not_be_able_to_cash_out_If_you_think_this_may_be_a_
+ve violated the terms of service so you will not be able to cash out. If you think this may be a mistake, please contact support. Learn more
+You_will_receive_an_email_with_further_instructions_shortly
+You will receive an email with further instructions shortly.
+You_won_level_points
+You won %{level} points!
+You_won_the_nVIP_Prize
+You won the
+VIP Prize!
+Your_account_already_exists
+Your account already exists
+Your_answer_could_not_be_accepted_due_to_connectivity_issues
+Your answer could not be accepted due to connectivity issues.
+Your_available_balance_may_be_lower_because_a_show_you_won_is_currently_in_review_Learn_more
+Your available balance may be lower because a show you won is currently in review. Learn more
+Your_available_balance_may_be_lower_because_a_show_you_won_is_currently_in_review_learnMore
+Your available balance may be lower because a show you won is currently in review. %{learnMore}
+Your_code_has_expired_We_will_try_to_send_you_a_new_one
+Your code has expired. We will try to send you a new one.
+Your_code_was_invalid
+Your code was invalid
+Your_country_code
+Your country code
+Your_detailed_feedback_helps_us_make_HQ_Trivia_better
+Your detailed feedback helps us make HQ Trivia better.
+Your_Extra_Lives_are_on_the_way
+Your Extra Lives are on the way
+Your_forms_have_been_received
+Your forms have been received
+Your_friend_has_reached_the_maximum_number_of_Friend_Requests_We_are_working_to_increase_this_limit_
+Your friend has reached the maximum number of Friend Requests. We are working to increase this limit soon.
+Your_friend_has_reached_the_maximum_number_of_Friends_We_are_working_to_increase_this_limit_soon
+Your friend has reached the maximum number of Friends. We are working to increase this limit soon.
+Your_In_App_Purchase_is_on_the_way
+Your In App Purchase is on the way!
+Your_location_is_required_to_participate
+Your location is required to participate.
+Your_money_will_be_there_in_just_a_bit
+Your money will be there in just a bit.
+Your_phone_number
+Your phone number
+Your_phone_number_is_invalid
+Your phone number is invalid
+Your_purchase_was_not_processed_in_time_Your_Extra_Life_can_be_used_in_a_future_game_and_an_addition
+Your purchase was not processed in time. Your Extra Life can be used in a future game, and an additional free Extra Life has been added to your account.
+Your_purchase_was_successful
+Your purchase was successful!
+Your_question_has_been_submitted
+Your question has been submitted.
+Your_rating_percent
+Your rating: %{percent}%
+Your_referral_can_t_be_processed_due_to_a_possible_violation_of_the_Terms_of_Use_Please_contact_help
+Your referral can't be processed due to a possible violation of the Terms of Use. Please contact help@hqtrivia.com with questions.
+Your_referral_code
+Your referral code
+Your_referral_code_can_t_be_the_same_as_your_username
+Your referral code can't be the same as your username
+Your_request_to_cash_out_amount_has_been_submitted
+Your request to cash out %{amount} has been submitted
+Your_username_can_t_be_empty
+Your username can't be empty.
+Your_username_can_t_contain_symbols
+Your username can't contain symbols.
+Your_username_must_be_at_least_3_characters
+Your username must be at least 3 characters
+Your_verification_code
+Your verification code
+_TtC9HQStringsP33_4C502F0030E1B2A88B7995A13EAF516911BundleClass
