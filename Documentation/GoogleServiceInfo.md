@@ -1,0 +1,1 @@
+Resides in the root folder of the IPA, it it is used for the Firebase SDK and a custom one can be generated [here](https://firebase.google.com/docs/ios/setup#add-config-file), however, it may have more/less data which may need to exist for the app to work.
