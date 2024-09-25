@@ -1,0 +1,7 @@
+{
+    "window.title": "HQTV App Documentation | Canobal Labs Open Source Software | Editing ${dirty}${rootName} ~ ${activeEditorShort}",
+    "files.autoSave": "afterDelay",
+    "editor.insertSpaces": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.mouseWheelZoom": true
+}
